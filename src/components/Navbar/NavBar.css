@@ -1,0 +1,24 @@
+/*NavBar*/
+
+.styleNav {
+    background-color: #e4c360;
+    margin-bottom: 30px
+  };
+  
+  .styleLink {
+    text-decoration: none;
+    color: #000;
+  };
+  
+  .logo2{
+   height: 20px;
+   margin-right: 32px;
+   margin-left:16;
+  }
+
+  .title_prin{
+    color: #000;
+    font-weight: bold;
+    font-size: 36px;
+    padding-left: 6px;
+  }
